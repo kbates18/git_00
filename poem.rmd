@@ -24,7 +24,8 @@ All mimsy were the borogoves,
 
 And the mome raths outgrabe.
 
-"Beware the Jabberwock, my son!
+"Beware the Jabberwock, my son!  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -51,6 +52,29 @@ And the sea look blue and bright,
 
 And this was odd, because it was
 
-The middle of the night.
+The middle of the night.  
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Yet each man kills the thing he loves,
+
+By each let this be heard,
+
+Some do it with a bitter look,
+
+Some with a flattering word,
+
+The coward does it with a kiss,
+
+The brave man with a sword!
+
+Some kill their love when they are young,
+
+And some when they are old;
+
+Some strangle with the hands of Gold:
+
+The kindest use a knife, because
+
+The dead so soon grow cold.
